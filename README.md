@@ -1,14 +1,18 @@
-# InstaGraph-Support
+# InstaGraph Support
 
-This is a public github repository to support [InstaGraph](https://instagraph.ai/) users.
+This is a public GitHub repository to support [InstaGraph](https://instagraph.ai/) users.
 
-If you see any bugs or issues, please report them as github issues (see the Issues page).
+If you see any bugs or issues, please report them as GitHub issues (see the [Issues page](https://github.com/snakajima/InstaGraph-Support/issues)).
 
-InstaGraph is currently in invitation-only "alpha" phase.
+Please note: InstaGraph is currently in an invitation-only "alpha" phase.
 
-If you are intested in participating in this phase, 
-please add your e-mail address (must be a Google account because we use Google's OAuth) to the whitelist on  [instagraph.ai](https://instagraph.ai/).
+Interested in joining the alpha phase? Follow these steps:
 
-Once you receive an invitation e-mail, please log-in from the main menu (on left). 
+- Ensure you have a Google account as we use Google OAuth for authentication.
+- Visit [instagraph.ai](https://instagraph.ai/) and add your Google account email to the whitelist.
 
-If you happened to register non-Google email address, please add one of your Google account address to the whitelist. 
+Received your invitation? Great! You can log in via the main menu on the left side of [the homepage](https://instagraph.ai/).
+
+Registered with a non-Google email? No worries, just add a Google email address to the whitelist as well.
+
+Thank you for your interest in InstaGraph!
